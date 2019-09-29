@@ -1,4 +1,4 @@
-package softserve.task3_1;
+package ss;
 
 import java.util.Arrays;
 import java.util.logging.Logger;
